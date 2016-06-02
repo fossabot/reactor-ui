@@ -25,9 +25,9 @@ import javax.swing.JPanel;
  *
  * @author linsong wang
  */
-public class ViewParameterDialog extends JDialog {
+public class ViewerParameterDialog extends JDialog {
 
-    public ViewParameterDialog(String title) {
+    public ViewerParameterDialog(String title) {
         super(new JDialog((Frame) null, title));
         super.setDefaultCloseOperation(JDialog.DISPOSE_ON_CLOSE);
 
