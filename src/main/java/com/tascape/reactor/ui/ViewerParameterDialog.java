@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.tascape.qa.th.ui;
+package com.tascape.reactor.ui;
 
 import java.awt.BorderLayout;
 import java.awt.Frame;

@@ -3,13 +3,13 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.tascape.qa</groupId>
-    <artifactId>th-ui</artifactId>
-    <version>1.0.0</version>
+    <groupId>com.tascape</groupId>
+    <artifactId>reactor-ui</artifactId>
+    <version>1.2.0</version>
     <packaging>jar</packaging>
 
-    <name>th-ui</name>
-    <description>th-ui</description>
+    <name>reactor-ui</name>
+    <description>Reactor Common UI</description>
 
     <dependencies>
         <dependency>
@@ -28,7 +28,7 @@
         <maven.compiler.showWarnings>true</maven.compiler.showWarnings>
     </properties>
 
-    <url>https://github.com/tascape/th-ui</url>
+    <url>https://github.com/tascape/reactor-ui</url>
     <licenses>
         <license>
             <name>The Apache License, Version 2.0</name>
@@ -44,9 +44,9 @@
         </developer>
     </developers>
     <scm>
-        <connection>scm:git:git@github.com:tascape/th-ui.git</connection>
-        <developerConnection>scm:git:git@github.com:tascape/th-ui.git</developerConnection>
-        <url>git:git@github.com:tascape/th-ui.git</url>
+        <connection>scm:git:git@github.com:tascape/reactor-ui.git</connection>
+        <developerConnection>scm:git:git@github.com:tascape/reactor-ui.git</developerConnection>
+        <url>git:git@github.com:tascape/reactor-ui.git</url>
     </scm>
 
     <build>
